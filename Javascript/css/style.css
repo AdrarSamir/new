@@ -1,0 +1,27 @@
+.modifDiv{
+    
+    border: 2px solid #059fff;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    font-size: 0.8rem;
+    background-color: #63c3ff;
+}
+
+/*3/ Ajouter deux classes css à votre code : une classe 'encadre' qui
+ajoute une bordure autour d'un élément, une classe vignette qui
+arrondit l'image.*/
+.encadre {
+    border: 2px solid black;
+}
+
+.vignette{
+    border-radius: 30px;
+}
+
+.calendrierBordure{
+    border: 2px solid #059fff;
+    
+    border-collapse: collapse;
+    background-color: #63c3ff;
+    
+}
